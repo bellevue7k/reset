@@ -48,6 +48,11 @@ ul {
 	list-style: none;
 }
 
+li {
+	list-style-position: outside;
+	padding-left: 25px;
+}
+
 pre {
 	font-family: monospace;
 	font-size: 1rem;
