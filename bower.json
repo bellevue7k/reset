@@ -1,0 +1,19 @@
+{
+  "name": "reset",
+  "description": "Simple reset styles",
+  "main": "reset.scss",
+  "authors": [
+    "Andrew Jelley (https://jelley.fish)",
+    "Marc Wieland (https://marcwieland.name)"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "reset",
+    "scss",
+    "style",
+    "lightweight",
+    "simple",
+    "kiss"
+  ],
+  "homepage": "http://miux.ch"
+}

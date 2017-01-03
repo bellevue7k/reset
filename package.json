@@ -1,0 +1,30 @@
+{
+  "name": "reset",
+  "version": "1.0.0",
+  "description": "Simple reset styles",
+  "main": "reset.scss",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/miux/reset.git"
+  },
+  "keywords": [
+    "reset",
+    "scss",
+    "style",
+    "lightweight",
+    "simple",
+    "kiss"
+  ],
+  "authors": [
+    "Andrew Jelley (https://jelley.fish)",
+    "Marc Wieland (https://marcwieland.name)"
+  ],
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/miux/reset/issues"
+  },
+  "homepage": "http://miux.ch"
+}
