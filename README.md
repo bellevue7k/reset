@@ -31,4 +31,4 @@ The developers behind are:
 - Andrew Jelley (https://jelley.fish)
 - Marc Wieland (https://marcwieland.name)
 
-If you like the styles give a shoudout and tell us.
+If you like the styles give a shout-out and tell us.
