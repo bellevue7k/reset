@@ -96,8 +96,13 @@ textarea {
 	font-size: 100%;
 }
 
+button {
+	border: none;
+	cursor: pointer;
+}
+
 button,
-.button, input[type="submit"] {
+input[type="submit"] {
 	display: inline-block;
 	background-color: transparent;
 	border-radius: 0;
