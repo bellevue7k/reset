@@ -66,6 +66,10 @@ strong {
 
 a {
 	text-decoration: none;
+	// remove border on IE
+	img {
+		border: none;
+	}
 }
 
 button,
