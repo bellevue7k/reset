@@ -5,7 +5,7 @@
 *, *::before, *::after {
 	margin: 0;
 	padding: 0;
-	box-sizing: border-box;
+	box-sizing: inherit;
 }
 
 html, body {
@@ -13,6 +13,7 @@ html, body {
 }
 
 html {
+	box-sizing: border-box;
 	overflow-y: scroll;
 	font-size: 100%;
 	line-height: 1.25;
