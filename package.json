@@ -1,7 +1,7 @@
 {
   "name": "miux-reset",
   "version": "2.0.0",
-  "description": "Simple reset styles",
+  "description": "Simple reset styles based on plain CSS",
   "main": "reset.css",
   "style": "reset.css",
   "scripts": {
