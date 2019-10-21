@@ -21,6 +21,10 @@ yarn add miux-reset
 "miux-reset": "^2.0.0"
 ```
 
+## Version
+1.0.0 - Reset styles based on SCSS
+2.0.0 - Plain CSS file for easy import and usage everywhere, stripped bower support
+
 ## Contributor
 [Miux](http://miux.ch) is a small agency in Chur, the eastern part of Switzerland.
 
