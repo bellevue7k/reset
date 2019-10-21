@@ -75,11 +75,11 @@ strong {
 
 a {
 	text-decoration: none;
-	
-	// remove border on IE
-	img {
-		border: none;
-	}
+}
+
+// remove border on IE
+a img {
+	border: none;
 }
 
 button,
