@@ -21,6 +21,23 @@ yarn add miux-reset
 "miux-reset": "^2.0.0"
 ```
 
+## Usage
+### SCSS/CSS
+```
+import '../../node_modules/miux-reset/reset.css';
+/* other imports and more styles */
+```
+
+### Styled Components (React)
+```
+import miuxReset from "miux-reset";
+
+const GlobalStyle = createGlobalStyle`
+  ${miuxReset}
+  /* other styles */
+`;
+```
+
 ## Version
 ### 1.0.0
 - Reset styles based on SCSS
