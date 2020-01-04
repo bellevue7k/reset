@@ -13,6 +13,7 @@ html, body {
 }
 
 html {
+	height: 100%;
 	box-sizing: border-box;
 	overflow-y: scroll;
 	font-size: 100%;
@@ -23,6 +24,7 @@ html {
 }
 
 body {
+	min-height: 100%;
 	font-variant-ligatures: no-common-ligatures;
 }
 
