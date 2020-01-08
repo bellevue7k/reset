@@ -13,18 +13,18 @@ html, body {
 }
 
 html {
+	height: 100%;
 	box-sizing: border-box;
 	overflow-y: scroll;
 	font-size: 100%;
 	line-height: 1.25;
-	color: rgb(0, 0, 0);
+	color: rgb(0,0,0);
 	text-size-adjust: none;
 	text-rendering: optimizeLegibility;
-	//-webkit-font-smoothing: antialiased;
-	//-moz-osx-font-smoothing: grayscale;
 }
 
 body {
+	min-height: 100%;
 	font-variant-ligatures: no-common-ligatures;
 }
 
@@ -75,11 +75,11 @@ strong {
 
 a {
 	text-decoration: none;
-	
-	// remove border on IE
-	img {
-		border: none;
-	}
+}
+
+/* remove border on IE */
+a img {
+	border: none;
 }
 
 button,

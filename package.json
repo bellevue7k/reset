@@ -1,8 +1,9 @@
 {
   "name": "miux-reset",
-  "version": "1.0.0",
-  "description": "Simple reset styles",
-  "main": "reset.scss",
+  "version": "2.0.0",
+  "description": "Simple reset styles based on plain CSS",
+  "main": "reset.css",
+  "style": "reset.css",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -13,6 +14,7 @@
   "keywords": [
     "reset",
     "scss",
+    "css",
     "style",
     "lightweight",
     "simple",
@@ -23,8 +25,6 @@
     "Marc Wieland (https://marcwieland.name)"
   ],
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/miux/reset/issues"
-  },
-  "homepage": "http://miux.ch"
+  "bugs": "https://github.com/miux/reset/issues",
+  "homepage": "https://miux.ch"
 }
